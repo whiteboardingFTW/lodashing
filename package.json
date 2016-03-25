@@ -1,0 +1,23 @@
+{
+  "name": "lodashing",
+  "version": "1.0.0",
+  "description": "Implementing lodash functions in our own ways. Contributed by students of Code Fellows 401 JavaScript (2016 Jan-March Cohort)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whiteboardingFTW/lodashing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whiteboardingFTW/lodashing/issues"
+  },
+  "homepage": "https://github.com/whiteboardingFTW/lodashing#readme",
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
+}

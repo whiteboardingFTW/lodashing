@@ -1,9 +1,7 @@
 # lodashing
 Implementing lodash functions in our own ways. Contributed by students of Code Fellows 401 JavaScript (2016 Jan-March Cohort)
 
-*****
-
-#### List of Suggestions
+## List of Suggestions
 See [SUGGEST.md](https://github.com/whiteboardingFTW/lodashing/blob/master/SUGGEST.md) for a list of suggested functions to work on. The list is compiled to reflect useful/challenging functions to code. Feel free to add to the list. Function already coded are listed below.
 
 *****
@@ -21,8 +19,16 @@ The table of content is sectioned according to [lodash docs](https://lodash.com/
 - ["Util" Methods](#util-methods)
 
 ## "Array" Methods
-| Function name | Uniq solns |
-| ------------- | :--------: |
+| Function name | Links to Docs |
+| ------------- | ------------- |
+| chunk         | [`_.chunk`](https://lodash.com/docs#chunk) |
+| compact       | [`_.compact`](https://lodash.com/docs#compact) |
+| concat        | [`_.concat`](https://lodash.com/docs#concat) |
+| difference, differenceBy | [`_.difference`](https://lodash.com/docs#difference), [`_.differenceBy`](https://lodash.com/docs#differenceBy) |
+| _.dropWhile   | [`_.dropWhile`](https://lodash.com/docs#dropWhile) |
+| _.fill        | [`_.fill`](https://lodash.com/docs#fill) |
+
+
 
 ## "Collection" Methods
 ## "Function" Methods
