@@ -3,9 +3,9 @@
 
 ## "Array" Methods
 #### Easy
-- [`_.chunk`](https://lodash.com/docs#chunk)
-- [`_.compact`](https://lodash.com/docs#compact)
-- [`_.concat`](https://lodash.com/docs#concat)
+- ~~[`_.chunk`](https://lodash.com/docs#chunk)~~
+- ~~[`_.compact`](https://lodash.com/docs#compact)~~
+- ~~[`_.concat`](https://lodash.com/docs#concat)~~
 - [`_.drop`](https://lodash.com/docs#drop),
   [`_.dropRight`](https://lodash.com/docs#dropRight),
   [`_.take`](https://lodash.com/docs#take)
@@ -20,10 +20,10 @@
 - [`_.zipObject`](https://lodash.com/docs#zipObject)
 
 #### Medium
-- [`_.difference`](https://lodash.com/docs#difference),
+- ~~[`_.difference`](https://lodash.com/docs#difference),
   [`_.differenceBy`](https://lodash.com/docs#differenceBy),
-  [`_.differenceWith`](https://lodash.com/docs#differenceWith)
-- [`_.fill`](https://lodash.com/docs#fill)
+  [`_.differenceWith`](https://lodash.com/docs#differenceWith)~~
+- ~~[`_.fill`](https://lodash.com/docs#fill)~~
 - [`_.flattenDeep`](https://lodash.com/docs#flattenDeep),
   [`_.flattenDepth`](https://lodash.com/docs#flattenDepth)
 - [`_.intersection`](https://lodash.com/docs#intersection),
@@ -49,9 +49,8 @@
   [`_.xorWith`](https://lodash.com/docs#uniqWith)
 
 #### Challenging
-- [`_.dropRightWhile`](https://lodash.com/docs#dropRightWhile),
-  [`_.dropWhile`](https://lodash.com/docs#dropWhile)
-  - `_.dropRightWhile` and `_.dropWhile` are essentially a version of `Array.prototype.filter`, returning only elements where the `predicate` evaluates to be false. Note also the many types the `predicate` can be and its default value.
+- ~~[`_.dropRightWhile`](https://lodash.com/docs#dropRightWhile),
+  [`_.dropWhile`](https://lodash.com/docs#dropWhile)~~
   - more similar methods:
     [`_.takeRightWhile`](https://lodash.com/docs#takeRightWhile),
     [`_.takeWhile`](https://lodash.com/docs#takeWhile)
